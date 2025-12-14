@@ -1,0 +1,13 @@
+outputs/
+*.pt
+*.bin
+*.ckpt
+*.safetensors
+
+.DS_Store
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+lost+found
